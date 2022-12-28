@@ -33,6 +33,12 @@ public class MainActivity extends AppCompatActivity {
    binding.carousel.addData(new CarouselItem("https://www.shutterstock.com/image-vector/red-banner-special-offer-260nw-1035467014.jpg",""));
 
         Toast.makeText(this, "Write Something Here", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Write Something Here", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Write Something Here", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Write Something Here", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Write Something Here", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Write Something Here", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Write Something Here", Toast.LENGTH_SHORT).show();
 
 
 
